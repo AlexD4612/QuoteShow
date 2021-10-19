@@ -13,7 +13,7 @@ const data = [
 	{
 		quote: `“Grow like a tree.” <br/> - Computer`,
 		emoji: "🌲",
-		image: `url(assets/tree.jpg) <br/> - Computer`
+		image: `url(assets/forest.jpg) <br/> - Computer`
 	},
 	{
 		quote: `“This is a fire” <br/> - Computer`,
