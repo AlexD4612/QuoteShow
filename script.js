@@ -1,31 +1,31 @@
 /* Data to Show*/
 const data = [
 	{
-		quote: `“Be like a mountain.”`,
+		quote: `“There are two means of refuge from the misery of life — music and cats.”`,
 		emoji: "🐈",
 		image: `url(assets/cat1.jpg)`,
-		author: `Adam`,
+		author: `Albert Schweitzer`,
 		audio: "https://interactive-examples.mdn.mozilla.net/media/cc0-audio/t-rex-roar.mp3"
 	},
 	{
-		quote: `“Brave the oceans.”`,
+		quote: `“The smallest feline is a masterpiece.”`,
 		emoji: "🐱",
 		image: `url(assets/ocean.jpg)`,
-		author: `Eve`,
+		author: `Leonardo da Vinci`,
 		audio: "https://interactive-examples.mdn.mozilla.net/media/cc0-audio/t-rex-roar.mp3"
 	},
 	{
-		quote: `“Grow like a tree.”`,
+		quote: `“Dogs own space and cats own time.”`,
 		emoji: "🌲",
 		image: `url(assets/tree.jpg)`,
-		author: `Bob`,
+		author: `Nicola Griffith`,
 		audio: "https://interactive-examples.mdn.mozilla.net/media/cc0-audio/t-rex-roar.mp3"
 	},
 	{
-		quote: `“This is a fire”`,
+		quote: `“Like all pure creatures, cats are practical.”`,
 		emoji: "👌",
 		image: `url(assets/forest.jpg)`,
-		author: `Jim`,
+		author: `William S. Burroughs`,
 		audio: "https://interactive-examples.mdn.mozilla.net/media/cc0-audio/t-rex-roar.mp3"
 	}
 ];
