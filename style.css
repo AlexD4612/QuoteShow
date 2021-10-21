@@ -15,8 +15,8 @@ body {
   
   
    /* Background Images */
-  /*background-image: url(../assets/mountain.jpg);*/
-  background-size: cover;
+  
+  background-size:contain;
 }
 
 img.prev{

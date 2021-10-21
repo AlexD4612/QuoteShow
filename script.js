@@ -12,28 +12,29 @@ const data = [
 		emoji: "🐱",
 		image: `url(assets/cat2.jpg)`,
 		author: `Leonardo da Vinci`,
-		audio: "assets/cat1.mp3"
+		audio: "assets/Cat2.mp3"
 	},
 	{
 		quote: `“Dogs own space and cats own time.”`,
 		emoji: "🕓",
 		image: `url(assets/cat4.png)`,
 		author: `Nicola Griffith`,
-		audio: "assets/cat1.mp3"
+		audio: "assets/cat10.wav"
 	},
 	{
 		quote: `“Like all pure creatures, cats are practical.”`,
 		emoji: "🐈",
-		image: `url(assets/cat5.png)`,
+		image: `url(assets/cat6.jpg)`,
 		author: `William S. Burroughs`,
-		audio: "assets/cat1.mp3"
+		audio: "assets/cat9.wav"
+
 	},
 	{
 		quote: `“Sleeping, it’s what cats do best. It’s why they are my heroes.”`,
 		emoji: "💤",
 		image: `url(assets/cat5.png)`,
 		author: `Jarod Kintz`,
-		audio: "assets/cat1.mp3"
+		audio: "assets/cat5.wav"
 	}
 ];
 
