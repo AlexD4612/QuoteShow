@@ -1,56 +1,44 @@
 /* Stylesheet */
 
-/* Import Google Font */
-@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
-
 body {
-  /* Horizontal and Vertical Center */
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  
-  /* Extend full height of browser  */
-  height: 100vh;
-  
-  
-   /* Background Images */
-  
-  background-size:contain;
+    /* Horizontal and Vertical Center */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* Extend full height of browser  */
+    height: 100vh;
+    /* Background Images */
+    background-size: contain;
 }
 
-img.prev{
-  width: 10%;
- 
-}
-
-img.next{
-  width: 10%;
-  
+img.prev,
+img.prev {
+    width: 10%;
 }
 
 
 /* Apply Font */
+
 main {
-  
-  font-family: "Rampart One",cursive;
-  font-size: 5vmin;
-  text-align: center;
-  
-  /* Add contrast to text */
-  background-color: rgba(255, 255, 255, 0.60);
-  border-radius: 2em;
+    font-family: "Rampart One", cursive;
+    font-size: 5vmin;
+    text-align: center;
+    /* Add contrast to text */
+    background-color: rgba(255, 255, 255, 0.60);
+    border-radius: 2em;
 }
+
+
+/* import font */
 
 @font-face {
-  font-family:"Rampart One";
-  src: url("assets/RampartOne-Regular.ttf");
+    font-family: "Rampart One";
+    src: url("assets/RampartOne-Regular.ttf");
 }
 
-
-
-nav{
-  display: flex;
-  justify-content: center;
-  padding-top: .5em;
+nav {
+    display: flex;
+    justify-content: center;
+    padding-top: .5em;
 }
