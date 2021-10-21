@@ -32,13 +32,25 @@ img.next{
 
 /* Apply Font */
 main {
-  font-family: 'Abril Fatface', cursive;
+  
+  
   font-size: 5vmin;
   text-align: center;
   
   /* Add contrast to text */
-  background-color: rgba(255, 255, 255, 0.25);
+  background-color: rgba(255, 255, 255, 0.60);
   border-radius: 2em;
+}
+
+@font-face {
+  font-family:"Rampart One";
+  src: url("assets/RampartOne-Regular.ttf");
+}
+
+body {
+  /* apply local font */
+	font-family: "Rampart One",cursive;
+  
 }
 
 nav{
