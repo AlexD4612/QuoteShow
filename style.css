@@ -33,7 +33,7 @@ img.next{
 /* Apply Font */
 main {
   
-  
+  font-family: "Rampart One",cursive;
   font-size: 5vmin;
   text-align: center;
   
@@ -47,11 +47,7 @@ main {
   src: url("assets/RampartOne-Regular.ttf");
 }
 
-body {
-  /* apply local font */
-	font-family: "Rampart One",cursive;
-  
-}
+
 
 nav{
   display: flex;

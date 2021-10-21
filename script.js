@@ -29,10 +29,10 @@ const data = [
 		audio: "assets/cat1.mp3"
 	},
 	{
-		quote: `“Like all pure creatures, cats are practical.”`,
-		emoji: "🐈",
+		quote: `“Sleeping, it’s what cats do best. It’s why they are my heroes.”`,
+		emoji: "💤",
 		image: `url(assets/cat5.png)`,
-		author: `William S. Burroughs`,
+		author: `Jarod Kintz`,
 		audio: "assets/cat1.mp3"
 	}
 ];
@@ -68,8 +68,11 @@ const randButton = document.querySelector("img.random");
 function nextItem(){
 	// load in button styling
 	document.querySelector('img.next').src="assets/next.svg";
+	document.querySelector('img.next').alt="next button";
 	document.querySelector('img.prev').src="assets/prev.svg";
+	document.querySelector('img.prev').alt="previous button";
 	document.querySelector('img.random').src="assets/random.svg";
+
 	
 	itemNumber += 1;
 
