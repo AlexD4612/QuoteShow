@@ -12,9 +12,16 @@ body {
     background-size: contain;
 }
 
+
+/*fix directional button size*/
+
 img.prev,
 img.next {
     width: 10%;
+}
+
+img:hover {
+    cursor: pointer;
 }
 
 
