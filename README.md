@@ -1,5 +1,5 @@
 # QuoteShow (Cat Show)
-A slide show with famous qoutes about cats.
+A slide show with famous quotes about cats.
 
 # Sources
 - clipart-libray.com
