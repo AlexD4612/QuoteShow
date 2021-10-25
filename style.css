@@ -10,6 +10,7 @@ body {
     height: 100vh;
     /* Background Images */
     background-size: contain;
+    overflow: hidden;
 }
 
 
